@@ -11,7 +11,7 @@ Live Demo [here!](https://react-covid-tracker2-db6b3.web.app/)
 
 ### Built with
 
-- [Next.js]https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Sanity](https://www.sanity.io/)
 - [Solidity](https://www.solidity.io/)
 - [MetaMask](https://metamask.io/)
