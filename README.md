@@ -1,4 +1,4 @@
-# Twitter Blockchain App.   <img align="left" alt="Covid" width="40px" src="https://www.svgrepo.com/show/183608/twitter.svg" style="padding-right:10px;" />
+# Twitter Blockchain App   <img align="left" alt="Covid" width="40px" src="https://www.svgrepo.com/show/183608/twitter.svg" style="padding-right:10px;" />
 
 Login to access all Twitter features and mint your own NFT!
 
