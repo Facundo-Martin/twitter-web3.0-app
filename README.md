@@ -16,6 +16,8 @@ Live Demo [here!](https://react-covid-tracker2-db6b3.web.app/)
 - [Solidity](https://www.solidity.io/)
 - [MetaMask](https://metamask.io/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [Pinata](https://www.pinata.cloud/)
+- [Axios](https://axios-http.com/docs/intro)
 
 ## Local Development
 
