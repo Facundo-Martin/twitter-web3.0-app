@@ -1,4 +1,4 @@
-# Twitter 3.0 App.   <img align="left" alt="Covid" width="50px" src="https://www.svgrepo.com/show/183608/twitter.svg" style="padding-right:10px;" />
+# Twitter 3.0 App.   <img align="left" alt="Covid" width="40px" src="https://www.svgrepo.com/show/183608/twitter.svg" style="padding-right:10px;" />
 
 Login to access all Twitter features and mint your own NFT!
 
@@ -8,6 +8,8 @@ Login to access all Twitter features and mint your own NFT!
 - Our NFT is ... regulated and in compliance with 
 
 Live Demo [here!](https://react-covid-tracker2-db6b3.web.app/)
+
+![preview img](/preview.png)
 
 ### Built with
 
