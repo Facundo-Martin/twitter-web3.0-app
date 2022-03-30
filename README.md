@@ -1,4 +1,4 @@
-# Twitter 3.0 App
+# Twitter 3.0 App.   <img align="left" alt="Covid" width="50px" src="https://www.svgrepo.com/show/183608/twitter.svg" style="padding-right:10px;" />
 
 Login to access all Twitter features and mint your own NFT!
 
