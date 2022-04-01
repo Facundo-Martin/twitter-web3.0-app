@@ -7,7 +7,7 @@ Login to access all Twitter features and mint your own NFT!
 - MINT your own NFT. You just need to choose a picture!
 - Our smart contract is built with Solidity and is compliant with the ERC-721 standard
 
-Live Demo [here!](https://react-covid-tracker2-db6b3.web.app/)
+Live Demo [here!](https://twitter-blockchain-8nsqhzxwu-facundo-martin.vercel.app/)
 
 ![preview img](/preview.png)
 
