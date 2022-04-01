@@ -5,7 +5,7 @@ Login to access all Twitter features and mint your own NFT!
 - Authenticate with MetaMask
 - Login to this app and create an account (stored in Sanity)
 - MINT your own NFT. You just need to choose a picture!
-- Our NFT is ... regulated and in compliance with 
+- Our smart contract is built with Solidity and is compliant with the ERC-721 standard
 
 Live Demo [here!](https://react-covid-tracker2-db6b3.web.app/)
 
@@ -15,6 +15,7 @@ Live Demo [here!](https://react-covid-tracker2-db6b3.web.app/)
 
 - [Next.js](https://nextjs.org/)
 - [Sanity](https://www.sanity.io/)
+- [OpenZeppelin](https://openzeppelin.com/)
 - [Solidity](https://www.solidity.io/)
 - [MetaMask](https://metamask.io/)
 - [Pinata](https://www.pinata.cloud/)
